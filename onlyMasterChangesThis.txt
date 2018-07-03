@@ -1,1 +1,3 @@
 first change by master
+
+after master was merged into b2. changes in b2 were not made in master
